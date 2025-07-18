@@ -54,9 +54,9 @@ print("-"*50);
 
 #8 Calculate slope, x-intercept and y-interecept of y= 2x-2
 #For y = 2x-2
-   #slope (m)=2
-   #Y-intercept: when x = 0, y = -2
-   #X-intercept: when y = 0, 0=2x-2, so x = 1
+#slope (m)=2
+#Y-intercept: when x = 0, y = -2
+#X-intercept: when y = 0, 0=2x-2, so x = 1
 slope=2
 y_intercept=-2
 x_intercept=1
@@ -210,6 +210,3 @@ print("-"*50);
 print("\nTable display:")
 for i in range(1, 6):
         print(f"{i} 1 {i} {i*2} {i*3}")
-
-
-
